@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "Panchito",
+        "edad": 8,
+        "peso": 10.5,
+        "estaVivo": true,
+        "propietario": {
+            "nombre": "Juan",
+            "edad": 23,
+            "direccion": "Col. 1, calle 1, numero 1"
+        },
+        "cuidados": [
+            "bañar en seco",
+            "sacarlo a pasear"
+        ],
+        "ubicacion" : "Mexico",
+        "Salud" : "Buena"
+    },
+    {
+        "nombre": "Lucho",
+        "edad": 5,
+        "peso": 11,
+        "estaVivo": true,
+        "propietario": {
+            "nombre": "Pedro",
+            "edad": 20,
+            "direccion": "Col. 1, calle 1, numero 1"
+        },
+        "cuidados": [
+            "Alimento especial"
+        ],
+        "ubicacion" : "Argentina",
+        "Salud" : "Buena"
+    },
+    {
+        "nombre": "Chancla",
+        "edad": 1,
+        "peso": 3,
+        "estaVivo": true,
+        "propietario": {
+            "nombre": "Lalo",
+            "edad": 30,
+            "direccion": "Col. 1, calle 1, numero 1"
+        },
+        "cuidados": [
+            "Pasear a diario"
+        ],
+        "ubicacion" : "China",
+        "Salud" : "Buena"
+    }
+]
